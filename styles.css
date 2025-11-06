@@ -1,9 +1,9 @@
 body {
   color: black;
 }
-#main {
+#title {
   background-color:whitesmoke;
-  border: 1px solid;
+  border: 5px solid;
   border-color:darkgrey;
   color: green;
   text-align: center;
