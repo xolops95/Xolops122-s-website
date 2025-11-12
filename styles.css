@@ -6,5 +6,9 @@ body {
   border: 5px solid;
   border-color:darkgrey;
   color: green;
-  text-align: center;
+  text-align: left;
+}
+#buttons {
+  padding-bottom: margin;
+  
 }
